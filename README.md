@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roberto Garayoa
 - 👀 I’m interested in demostrating my skills in software development, strategic planning to build an efficient system and its management
-- 🌱 I’m currently learning how to become in a fullstack developer and iOS development
+- 🌱 I’m currently learning how to become in a React developer
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me roberto_garayoaf@outlook.es
 
